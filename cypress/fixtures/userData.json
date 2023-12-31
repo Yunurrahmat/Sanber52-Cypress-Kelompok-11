@@ -1,0 +1,11 @@
+{
+  "validData": {
+      "validUser": "yunurrahmat@gmail.com",
+      "validPass": "RahRan889977"
+
+  },
+  "invalidData": {
+      "invalidUser": "yunurahmat2@gmail.com",
+      "invalidPass": "RahRan778899"
+  }
+}

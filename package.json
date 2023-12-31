@@ -1,0 +1,11 @@
+{
+  "name": "sanber52-cypress-kelompok-11",
+  "version": "1.0.0",
+  "description": "Repository Praktek QA SanberCode Angkatan 52 Kelompok 11",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
