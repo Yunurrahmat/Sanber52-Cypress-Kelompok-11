@@ -11,7 +11,7 @@ C - My Account > Edit Account Information
 
 D - My Account > Edit Address
 
-E - Choose Product(s) aminnngit
+E - Choose Product(s) Mohamad Amin Khawadis / akhawadis25@gmail.com
 
 F - View and Update Shopping Cart
 
