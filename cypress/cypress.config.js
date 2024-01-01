@@ -5,4 +5,4 @@ module.exports = defineConfig({
     baseUrl: 'https://magento.softwaretestingboard.com/',
     defaultCommanTimeout: 5000,
   }
-}
+})
