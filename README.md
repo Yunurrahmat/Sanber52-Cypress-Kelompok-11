@@ -7,6 +7,6 @@ A - Create an Account: Siti Fatimah / fsiti4605@gmail.com
 B - Login: Yunurrahmat Primanto
 C - My Account > Edit Account Information
 D - My Account > Edit Address
-E - Choose Product(s)
+E - Choose Product(s) : Muhamad Makhasinul Maarif 
 F - View and Update Shopping Cart
 G - Proceed to Checkout
