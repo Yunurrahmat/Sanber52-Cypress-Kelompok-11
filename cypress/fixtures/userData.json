@@ -1,11 +1,17 @@
 {
+  "createAccount":{
+    "fname" : "Siti",
+    "lname":"Fatimah",
+    "validEmail": "sifax1q@gmail.com",
+    "Pass":"Sifa12345s2f335",
+    "invalidconPass":"Sifa123456fdvacvxad"
+  },
   "validData": {
-      "validUser": "yunurrahmat@gmail.com",
-      "validPass": "RahRan889977"
-
+    "validUser": "yunurrahmat@gmail.com",
+    "validPass": "RahRan889977"
   },
   "invalidData": {
-      "invalidUser": "yunurahmat2@gmail.com",
-      "invalidPass": "RahRan778899"
+    "invalidUser": "yunurahmat2@gmail.com",
+    "invalidPass": "RahRan778899"
   }
-}
+} 
