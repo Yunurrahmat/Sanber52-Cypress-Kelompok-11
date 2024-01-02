@@ -7,7 +7,7 @@ A - Create an Account: Siti Fatimah / fsiti4605@gmail.com
 
 B - Login: Yunurrahmat Primanto / yunurrahmat@gmail.com
 
-C - My Account > Edit Account Information
+C - My Account > Edit Account Information/fifikmaolanaakbar@gmail.com
 
 D - My Account > Edit Address
 
