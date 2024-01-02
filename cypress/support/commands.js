@@ -37,9 +37,32 @@ Cypress.Commands.add('inputType', (locator,value) => {
 
 
 
+// Login
 Cypress.Commands.add('goTo', (laman) => {
-    cy.visit(laman)
+  cy.visit(laman)
 })
+Cypress.Commands.add('VerifyNoItemsInCart', (locator, value) => {
+  cy.get(locator).should('contain', value)
+})
+
+Cypress.Commands.add('NewShippingAddress',(company, street, city, state, zip, country, phone) => {
+  cy.get('[name="company"]').type(company)
+  cy.get('[name="street[0]"]').type(street)
+  cy.get('[name="city"]').type(city)
+  cy.get('[name="region_id"]').select(state)
+  cy.get('[name="postcode"]').type(zip)
+  cy.get('[name="country_id"]').select(country)
+  cy.get('[name="telephone"]').type(phone)
+  cy.get('.modal-footer > .primary').click()
+})
+
+Cypress.Commands.add('ApplyDiscountCode', (code) => {
+  cy.get('#block-discount-heading').click()
+  cy.get('#discount-code').clear().type(code)
+  cy.get('#discount-form > .actions-toolbar > .primary > .action').click()
+  cy.get('.messages > .message > div').should('contain', 'The coupon code')
+})
+
 Cypress.on('uncaught:exception', (err, runnable) => {
     // returning false here prevents Cypress from
     // failing the test
