@@ -1,7 +1,7 @@
 # Sanber52-Cypress-Kelompok-11
 Repository Praktek QA SanberCode Angkatan 52 Kelompok 11
 
-Pembagian Tugas Kelompok
+Pembagian Tugas Kelompok 11
 
 A - Create an Account: Siti Fatimah / fsiti4605@gmail.com
 
